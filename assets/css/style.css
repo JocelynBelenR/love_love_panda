@@ -1,0 +1,65 @@
+
+.container-fluid {
+    background-color: #F68E67;
+    padding: 5px;
+    text-align: right;
+}
+
+.superior {
+    margin: 50px;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+    font-size: 18px;
+}
+
+.coloruno {
+    background-color: #F68E67;
+    padding: 10px 0px;
+}
+
+.colordos {
+    background-color:#ABE189;
+    padding: 40px;
+}
+
+.cuadrotexto {
+    background-color: #F68E67;
+    text-align: center;
+    padding: 30px;
+}
+
+h3 {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+h4 {
+    color: white;
+    font-size: 18px;
+    margin: 20px;
+}
+
+#imagenes {
+    image-orientation: center;
+}
+
+#carouselExampleSlidesOnly {
+    -webkit-filter: grayscale(1); 
+    filter: gray;
+    filter: grayscale(1);
+}
+
+.textofinal {
+    color: white;
+    font-size: 18px;
+    text-align: right;
+    padding: 10px 20px 2px;
+
+}
